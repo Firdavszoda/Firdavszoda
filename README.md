@@ -35,7 +35,7 @@ I craft high-performance web applications. Currently scaling **Smart Dushanbe** 
   <a href="https://www.linkedin.com/in/amir-firdavszoda-845597406/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:abdulloevmuhammadsurur@gmail.com">
+  <a href="mailto:amirfirdavszoda@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
