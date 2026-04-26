@@ -16,7 +16,7 @@ I craft high-performance web applications. Currently scaling **Smart Dushanbe** 
 ### 💻 Technical Arsenal
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,zustand,redux,nodejs,git,figma,vercel" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,zustand,redux,git,vercel" />
   </a>
 </p>
 
